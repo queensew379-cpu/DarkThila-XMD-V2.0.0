@@ -1,0 +1,10 @@
+# Build output
+dist/
+
+# Runtime session data — never commit (auth credentials are secret + per-environment)
+sessions/*/
+!sessions/auto-join.json
+
+# Large binaries (downloaded at runtime)
+bin/yt-dlp
+bin/yt-dlp-*

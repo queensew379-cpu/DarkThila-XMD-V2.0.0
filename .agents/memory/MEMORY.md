@@ -1,0 +1,1 @@
+- [JioSaavn Official API + DES Decryption](jiosaavn-official-api.md) — community mirrors all dead; use official api.php + DES-ECB decrypt; needs --openssl-legacy-provider in Node 20
